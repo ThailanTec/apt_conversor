@@ -1,0 +1,23 @@
+{
+  "name": "execelpdf",
+  "version": "1.0.0",
+  "description": "Conversor de Excel para PDF",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThailanTec/excelpdf.git"
+  },
+  "author": "Thailan Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThailanTec/excelpdf/issues"
+  },
+  "homepage": "https://github.com/ThailanTec/excelpdf#readme",
+  "dependencies": {
+    "ejs": "^3.0.2",
+    "html-pdf": "^2.2.0"
+  }
+}
